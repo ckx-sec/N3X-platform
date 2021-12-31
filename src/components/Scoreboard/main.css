@@ -249,3 +249,7 @@ tbody tr {
     padding-right: 15px;
 }
 }
+
+.recharts-polar-angle-axis-tick-value {
+  fill: red;
+}
